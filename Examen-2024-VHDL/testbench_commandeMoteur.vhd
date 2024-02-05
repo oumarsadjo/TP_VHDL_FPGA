@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Create Date: 02/05/2024 09:58:14 AM
--- Design Name: Oumar Sadjo Barry
+-- Author Name: Oumar Sadjo Barry / oumar-sadjo.barry@etu.univ-cotedazur.fr
 -- Module Name: testbench_commandeMoteur - archi_testbench_commandeMoteur
 ----------------------------------------------------------------------------------
 
